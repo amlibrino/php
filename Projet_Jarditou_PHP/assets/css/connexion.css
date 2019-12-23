@@ -1,0 +1,18 @@
+/*connexion.css
+*
+*/
+.container {
+    margin-top: 10%;
+    border: 1px solid rgb(122, 172, 230);
+    border-radius: 20px;
+    box-shadow :10px 10px 0px grey;
+    padding-bottom:3%;
+    
+}
+
+
+
+section {
+    position: center;
+
+}
